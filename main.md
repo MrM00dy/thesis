@@ -18,4 +18,4 @@ blubblub et. al,
 This will be raw data
 
 ## Acknolegments
-Thank u to all
+Thank u to all and myself ofc
